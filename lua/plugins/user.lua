@@ -5,9 +5,7 @@ if true then return {} end -- WARN: REMOVE THIS LINE TO ACTIVATE THIS FILE
 
 ---@type LazySpec
 return {
-
-  -- == Examples of Adding Plugins ==
-
+  { "xiyaowong/transparent.nvim", lazy = false },
   "andweeb/presence.nvim",
   {
     "ray-x/lsp_signature.nvim",
