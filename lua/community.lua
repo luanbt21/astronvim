@@ -8,6 +8,7 @@ return {
   { import = "astrocommunity.completion.codeium-vim" },
 
   { import = "astrocommunity.pack.rust" },
+  { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.svelte" },
   { import = "astrocommunity.pack.lua" },
 }
