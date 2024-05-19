@@ -1,6 +1,11 @@
 ---@type LazySpec
 return {
   {
+    "catppuccin/nvim",
+    name = "catppuccin",
+    opts = function(_, opts) opts.transparent_background = true end,
+  },
+  {
     "ray-x/lsp_signature.nvim",
     event = "BufRead",
     config = function() require("lsp_signature").setup() end,
