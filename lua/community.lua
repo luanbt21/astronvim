@@ -9,6 +9,7 @@ return {
 
   { import = "astrocommunity.completion.codeium-vim" },
   { import = "astrocommunity.completion.cmp-cmdline" },
+  { import = "astrocommunity.motion.leap-nvim" },
 
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.typescript" },
