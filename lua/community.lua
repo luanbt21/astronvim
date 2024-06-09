@@ -2,8 +2,10 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.colorscheme.catppuccin" },
-  { import = "astrocommunity.scrolling.satellite-nvim" },
-  { import = "astrocommunity.scrolling.neoscroll-nvim" },
+  { import = "astrocommunity.scrolling.satellite-nvim" }, -- Smooth
+  { import = "astrocommunity.scrolling.neoscroll-nvim" }, -- Decorator
+
+  { import = "astrocommunity.editing-support.multiple-cursors-nvim" },
 
   { import = "astrocommunity.git.git-blame-nvim" },
 
