@@ -17,4 +17,9 @@ return {
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.svelte" },
   { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.pack.go" },
+  { import = "astrocommunity.pack.tailwindcss" },
+  { import = "astrocommunity.pack.markdown" },
+  { import = "astrocommunity.pack.toml" },
+  { import = "astrocommunity.pack.yaml" },
 }
