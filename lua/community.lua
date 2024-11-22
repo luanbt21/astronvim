@@ -14,7 +14,7 @@ return {
   { import = "astrocommunity.motion.flash-nvim" },
 
   { import = "astrocommunity.pack.rust" },
-  { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.pack.svelte" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.go" },
